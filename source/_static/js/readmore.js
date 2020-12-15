@@ -40,8 +40,8 @@ var setIdTimer = setInterval(function () {
                 id: id,
                 blogId: '15406-1578143418297-890',
                 name: 'Python编程时光',
-                qrcode: 'http://image.python-online.cn/20200104210733.png',
-                keyword: 'vip'
+                qrcode: 'http://image.iswbm.com/20200104210733.png',
+                keyword: '1024'
             });
         }
        
